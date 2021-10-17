@@ -1,0 +1,1 @@
+Technology stack: sklearn, numpy, pandas, xgboost, joblib, caledar, os for project + folium, matplotlib, seaborn for notebook
