@@ -1,0 +1,2 @@
+mae in minutes = 3.6788386163494042
+rmse in minutes = 5.910829715598
