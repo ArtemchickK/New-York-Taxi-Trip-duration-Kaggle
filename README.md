@@ -1,4 +1,5 @@
 # New York City Taxi Trip Duration
+Подробный блокнот со всеми этапами построения модели и с пояснениями находится в файле "New York Taxi.ipynb"
 ## Задача
 Соревнование на Kaggle - https://www.kaggle.com/c/nyc-taxi-trip-duration/overview. Нужно предсказать продолжительность поездки такси по следующим признакам: 
 * id - идентификатор поездки
