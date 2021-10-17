@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/train.csv
+/test.csv
+data_preprocessed.csv
+y_preprocessed.csv
+x_test.csv
+y_test.csv
